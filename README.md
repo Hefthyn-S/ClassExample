@@ -1,1 +1,3 @@
 # ClassExample
+
+example in class
